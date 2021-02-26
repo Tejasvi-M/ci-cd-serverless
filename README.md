@@ -7,6 +7,7 @@ Required software/tools:
 - NPM Serverless
 - AWS credentials
 - Python 3
+- Serverless wsgi
 
 
 Files Description:
