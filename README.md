@@ -1,5 +1,14 @@
 # ci-cd-serverless
 
+Required software/tools:
+- Jenkins
+- NPM
+- NodeJS
+- NPM Serverless
+- AWS credentials
+- Python 3
+
+
 Files Description:
 
 **Pipeline_Script.groovy** - Jenkins pipeline code, clones the repo and changes the environment value in the serverless.yaml file based on the input paramater. This is a parameterized job with 'env' as the variable.
